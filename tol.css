@@ -1,12 +1,13 @@
-body { font-family: Arial, Helvetica, sans-serif; background-color:##2d3238}
+body { font-family: Roboto, Arial, Helvetica, sans-serif; background-color:#2d3238; color: #A3A3A3}
 
-.main_content { margin: 5% auto; width: 100%; text-align: center; line-height: 22px; font-size: 1.3em}
-.subtext { font-size: .8em; color: #e8e8e8 }
-.attrib { font-size: .6em; color: #e8e8e8 }
+.main_content { margin: 5% auto; width: 100%; text-align: center; line-height: 22px; font-size: 1.3em }
+.main_content h2 { font-size: 2.4.em }
+.subtext { font-size: .8em }
+.attrib { font-size: .6em }
 
 
-a, a:visited { text-decoration: none; color: #e8e8e8; }
-a:hover { text-decoration: underline; color: #da7635}
+a, a:visited { text-decoration: none; color: #A3A3A3; }
+a:hover { text-decoration: underline; color: #0087be}
 a { diplay: block; float: clear; margin-bottom: 10px; }
 
 @media screen and (max-width: 480px) {
